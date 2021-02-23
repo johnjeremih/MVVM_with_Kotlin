@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM with Kotlin</string>
+    <string name="hit_me">Hit me</string>
+    <string name="to_detail">To Detail Fragment</string>
+</resources>
